@@ -28,6 +28,7 @@ This script is a simple keylogger that captures keystrokes and saves them to a f
    - Ensure you have the `pynput` and `smtplib` libraries installed. You can install `pynput` using pip:
      ```sh
      pip install pynput
+     pip install smtplib
      ```
 
 2. **Configuration**:
